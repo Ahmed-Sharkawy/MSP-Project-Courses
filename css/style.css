@@ -200,7 +200,7 @@ header .navbar{
     background-color:#42AAC4; 
     color: #fff;
   }
- 
+
   #slider a.carousel-control-prev, #slider a.carousel-control-next{
       width: 2%;
       padding-top: 20px;
@@ -264,14 +264,13 @@ header .navbar{
 .footer .follow-us{
   margin-top: 6%;
   margin-left: 50%;
-  
   font-size: 30px;
-  
   cursor: pointer;
 }
-.footer .follow-us i{
+.footer .follow-us a i{
   margin: 5px;
-  transition: .5s ease; 
+  transition: .5s ease;
+  color: white;
 }
 .footer .follow-us i:hover{
   color: #42AAC4;
