@@ -10,5 +10,5 @@
   - Add page sign in
 
 
-#### Admin Panel: <a href="https://ahmed-sharkawy.github.io/MSP-Project-Courses/" target="_blank">CouRSes</a>
+#### Page Url: <a href="https://ahmed-sharkawy.github.io/MSP-Project-Courses/" target="_blank">CouRSes</a>
 
